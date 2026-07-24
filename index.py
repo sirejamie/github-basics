@@ -1,5 +1,4 @@
-def add(a, b):
-    return a + b
+from add import add
 
 def main():
     print("Hello, world!")
